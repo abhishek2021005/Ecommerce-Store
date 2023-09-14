@@ -1,14 +1,17 @@
 **Ecommerce Book Store**
 ### Screenshots
-<img width="1427" alt="Screenshot 2023-09-14 at 8 03 11 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/cc3312a8-3616-4ecd-8e71-ba44c5d0c278">
+<img width="1427" alt="Screenshot 2023-09-14 at 8 03 11 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/ed534d01-9d1d-4cff-be09-26a27c3d587d">
 
-<img width="1388" alt="Sc![Uploading Screenshot 2023-09-14 at 8.03.11 PM.png…]()
-reenshot 2023-09-14 at 8 03 03 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/66d29d63-eda2-4616-af4f-95a66bda5bb2">
-<img width="1123" alt="Screenshot 2023-09-14 at 8 03 34 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/7c6d6e18-1da1-453d-8df3-7c749ac1ef62">
-<img width="1265" alt="Screenshot 2023-09-14 at 8 03 56 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/b4b921b6-3720-4ae3-9670-d05efb626427">
-<img width="567" alt="Screenshot 2023-09-14 at 8 19 13 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/3c231a98-d873-4141-b345-c77bc6775db7">
+<img width="1388" alt="Screenshot 2023-09-14 at 8 03 03 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/6e6acdbd-f5d8-4bc9-88fa-9b29384c964a">
+<img width="1437" alt="Screenshot 2023-09-14 at 8 02 54 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/4d45c02c-a53e-422d-8634-4f7919086729">
+<img width="1265" alt="Screenshot 2023-09-14 at 8 03 56 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/8088e892-eff2-4a6b-af0a-869880486bfc">
+<img width="1123" alt="Screenshot 2023-09-14 at 8 03 34 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/69a1c291-85ba-400a-a966-879f0ae110ca">
+<img width="567" alt="Screenshot 2023-09-14 at 8 19 13 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/4b01808d-55f6-4c08-b316-9d6bb9f1ba37">
 
 ## Available Scripts
+
+
+
 
 In the project directory, you can run:
 
