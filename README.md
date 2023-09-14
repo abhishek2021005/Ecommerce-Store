@@ -1,4 +1,11 @@
 ### Screenshots
+<img width="1427" alt="Screenshot 2023-09-14 at 8 03 11 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/cc3312a8-3616-4ecd-8e71-ba44c5d0c278">
+
+<img width="1388" alt="Sc![Uploading Screenshot 2023-09-14 at 8.03.11 PM.png…]()
+reenshot 2023-09-14 at 8 03 03 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/66d29d63-eda2-4616-af4f-95a66bda5bb2">
+<img width="1123" alt="Screenshot 2023-09-14 at 8 03 34 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/7c6d6e18-1da1-453d-8df3-7c749ac1ef62">
+<img width="1265" alt="Screenshot 2023-09-14 at 8 03 56 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/b4b921b6-3720-4ae3-9670-d05efb626427">
+<img width="567" alt="Screenshot 2023-09-14 at 8 19 13 PM" src="https://github.com/abhishek2021005/Ecommerce-Store/assets/81138182/3c231a98-d873-4141-b345-c77bc6775db7">
 
 ## Available Scripts
 
@@ -48,21 +55,5 @@ You may also see any lint errors in the console.
 11. Orders page
 12. Search bar to search books by Book name and Author name
 13. Pagination 
-
-## You are welcome to contribute to this project 
-1. Create a personal fork of the project on Github.
-2. Clone the fork on your local machine. Your remote repo on Github is called origin.
-3. Add the original repository as a remote called upstream.
-4. If you created your fork a while ago be sure to pull upstream changes into your local repository.
-5. Create a new branch to work on! Branch from development branch.
-6. Implement/fix your feature, comment your code.
-7. Squash your commits into a single commit with git's interactive rebase. Create a new branch if necessary.
-8. Push your branch to your fork on Github, the remote origin.
-9. From your fork open a pull request in the correct branch. Target the project's development branch.
-10. Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
-11. And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
-
-## You can report issues on this project using Github issue 
-1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 
 
